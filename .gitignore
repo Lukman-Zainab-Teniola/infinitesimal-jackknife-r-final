@@ -1,0 +1,14 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Keep generated project outputs versioned only after reviewing them.
+# Uncomment these lines if you do NOT want generated outputs in Git:
+# results/
+# figures/
